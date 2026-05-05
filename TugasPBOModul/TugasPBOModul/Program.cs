@@ -22,7 +22,7 @@ pa1.Aktivitas();
 d1.Aktivitas();
 Console.WriteLine();
 Console.WriteLine("===== METHOD ======");
-d1.CekSpesialis();
+tm1.CekSpesialis();
 d1.Diagnosa();
 pa1.Menangis();
 pd1.Konsultasi();
